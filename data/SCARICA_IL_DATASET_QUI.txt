@@ -1,0 +1,5 @@
+Puoi scaricare la cartella "data" completa con tutte le TC da questo link Google Drive:
+
+https://drive.google.com/file/d/1R2oQ1LnuFLmeegtz6Aj2h4-Qi3wfKnK9/view?usp=sharing
+
+Una volta scaricato lo zip, estrailo e sostituisci questa cartella "data" vuota con quella che hai scaricato.
