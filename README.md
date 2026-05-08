@@ -29,7 +29,7 @@ Il sistema è stato testato sul dataset **LIDC-IDRI**, utilizzando il criterio d
 ### Caso di Successo vs Limite 2D
 L'analisi evidenzia che la causa primaria di fallimento è l'ambiguità intrinseca del dominio 2D, dove strutture vascolari mimano perfettamente la geometria tumorale.
 
-![Confronto Successo vs Limite](output/figures/03_success_vs_limit_clean.jpg)
+![Confronto Successo vs Limite](outputs/figures/03_success_vs_limit_clean.png)
 
 ## 🚀 Sviluppi Futuri
 * **Transizione Volumetrica (3D)**: Analisi nativa di volumi voxel per eliminare l'ambiguità del taglio trasversale.
